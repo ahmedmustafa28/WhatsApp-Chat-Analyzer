@@ -1,6 +1,7 @@
 # 💬 WhatsApp Chat Analyzer
 
-A Streamlit web app to analyze your WhatsApp chats — visualize message trends, emoji usage, word clouds, and more.
+A Streamlit web app to analyze your WhatsApp chats — visualize message trends, emoji usage, word clouds, and more.  
+ **DEMO LINK = https://whatsapp-chat-analyzer-6bpm66d6jc6e7wcyhxdtmu.streamlit.app/**
 
 ---
 
@@ -30,5 +31,5 @@ A Streamlit web app to analyze your WhatsApp chats — visualize message trends,
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/<ahmedmustafa28>/whatsapp-chat-analyzer.git
+git clone https://github.com/ahmedmustafa28/whatsapp-chat-analyzer.git
 cd whatsapp-chat-analyzer
