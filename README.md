@@ -31,5 +31,5 @@ A Streamlit web app to analyze your WhatsApp chats — visualize message trends,
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/ahmedmustafa28/whatsapp-chat-analyzer.git
+git clone https://github.com/your-username/whatsapp-chat-analyzer.git
 cd whatsapp-chat-analyzer
